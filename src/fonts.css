@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'AberMonoRegular';
+  src: url('./fonts/Mod-Aber-Mono-Regular.woff2') format('woff2'),
+       url('./fonts/Mod-Aber-Mono-Regular.woff') format('woff'),
+       url('./fonts/Mod-Aber-Mono-Regular.otf') format('opentype'),
+       url('./fonts/Mod-Aber-Mono-Regular.ttf') format('truetype');
+}
